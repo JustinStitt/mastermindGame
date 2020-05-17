@@ -10,4 +10,5 @@ A black peg means that you have correctly guessed a color of the combination AND
 By this definition, to win the game, you must achieve 4 black pins in 12 turns.
 
 **THRILLING GAMEPLAY**
+
 ![](mastermindGIF.gif)
