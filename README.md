@@ -9,6 +9,12 @@ A black peg means that you have correctly guessed a color of the combination AND
 
 By this definition, to win the game, you must achieve 4 black pins in 12 turns.
 
+You can change the number of available colors to build the combination with. By default I have it set at 6 colors. This is moderate difficulty. More colors would mean that there are more possibilities and thus more difficult. 
+
 **THRILLING GAMEPLAY**
 
 ![](mastermindGIF.gif)
+
+
+wiki for reference and insights:
+https://en.wikipedia.org/wiki/Mastermind_(board_game)
